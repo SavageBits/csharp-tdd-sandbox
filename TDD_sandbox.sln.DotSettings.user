@@ -5,10 +5,14 @@
 	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/GroupingIndex/@EntryValue">4</s:Int64>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/Name/@EntryValue">Haiku #2</s:String>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
-	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AEA7DD91C6B842CFB2F2CC13A7954D9B/@KeyIndexDefined">True</s:Boolean>
-	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AEA7DD91C6B842CFB2F2CC13A7954D9B/GroupingIndex/@EntryValue">4</s:Int64>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AEA7DD91C6B842CFB2F2CC13A7954D9B/Name/@EntryValue">SumOfMultiplesOf3And5</s:String>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=AEA7DD91C6B842CFB2F2CC13A7954D9B/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest.ShouldReturnSumOfMultiplesGivenAValue(3,4)" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest.ShouldReturnSumOfMultiplesGivenAValue(8,6)" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest.ShouldReturnSumOfMultiplesGivenAValue(23,10)" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest.ShouldReturnSumOfMultiplesGivenAValue(14,7)" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;e Id="MultiplesOf3And5.Tests.MultipleSummerTest.ShouldReturnSumOfMultiplesGivenAValue" Project="DB9A2C5F-BC46-47F4-B451-8BEB7142DCE5" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/Name/@EntryValue">EvenFibonacciNumbers</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest.ShouldGenerateAFibonacciSequenceForGivenMaximum" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest.ShouldSumEvenNumbersForGivenFibonacciSequence" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
 	
 	
 	
