@@ -1,0 +1,9 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\NumberNames.Test.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\NumberNames.Test.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\NumberNames.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\nunit.framework.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\NumberNames.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\nunit.framework.xml
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.pdb

@@ -1,0 +1,5 @@
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation\bin\Debug\StringCalculation.dll
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation\bin\Debug\StringCalculation.pdb
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation\obj\Debug\StringCalculation.dll
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation\obj\Debug\StringCalculation.pdb
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation\obj\Debug\StringCalculation.csprojResolveAssemblyReference.cache

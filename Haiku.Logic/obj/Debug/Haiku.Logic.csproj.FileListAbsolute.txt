@@ -1,0 +1,5 @@
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Logic\bin\Debug\Haiku.Logic.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Logic\bin\Debug\Haiku.Logic.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Logic\obj\Debug\Haiku.Logic.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Logic\obj\Debug\Haiku.Logic.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Logic\obj\Debug\Haiku.Logic.pdb

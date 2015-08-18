@@ -1,0 +1,5 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Logic\bin\Debug\NumberNames.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Logic\bin\Debug\NumberNames.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Logic\obj\Debug\NumberNames.Logic.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Logic\obj\Debug\NumberNames.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Logic\obj\Debug\NumberNames.Logic.pdb

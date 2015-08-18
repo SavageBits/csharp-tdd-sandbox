@@ -1,0 +1,5 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Logic\bin\Debug\MultiplesOf3And5.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Logic\bin\Debug\MultiplesOf3And5.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Logic\obj\Debug\MultiplesOf3And5.Logic.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Logic\obj\Debug\MultiplesOf3And5.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Logic\obj\Debug\MultiplesOf3And5.Logic.pdb

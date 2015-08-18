@@ -1,0 +1,1 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Tests\obj\Debug\Bowling.Tests.csprojResolveAssemblyReference.cache

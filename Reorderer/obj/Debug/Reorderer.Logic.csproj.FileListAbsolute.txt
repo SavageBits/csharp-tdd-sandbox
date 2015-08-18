@@ -1,0 +1,5 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer\bin\Debug\Reorderer.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer\bin\Debug\Reorderer.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer\obj\Debug\Reorderer.Logic.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer\obj\Debug\Reorderer.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer\obj\Debug\Reorderer.pdb

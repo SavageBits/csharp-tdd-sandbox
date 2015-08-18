@@ -1,0 +1,9 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\Reorderer.Tests.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\Reorderer.Tests.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\Reorderer.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\Reorderer.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\obj\Debug\Reorderer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\obj\Debug\Reorderer.Tests.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Reorderer.Tests\obj\Debug\Reorderer.Tests.pdb

@@ -1,0 +1,5 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Logic\bin\Debug\ManualMock.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Logic\bin\Debug\ManualMock.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Logic\obj\Debug\ManualMock.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Logic\obj\Debug\ManualMock.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Logic\obj\Debug\ManualMock.Logic.csprojResolveAssemblyReference.cache

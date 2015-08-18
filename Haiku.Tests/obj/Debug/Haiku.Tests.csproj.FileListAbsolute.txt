@@ -1,0 +1,9 @@
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Haiku.Tests.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Haiku.Tests.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Haiku.Logic.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Haiku.Logic.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.pdb

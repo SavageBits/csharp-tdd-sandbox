@@ -1,0 +1,5 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Logic\bin\Debug\Bowling.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Logic\bin\Debug\Bowling.Logic.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Logic\obj\Debug\Bowling.Logic.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Logic\obj\Debug\Bowling.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Bowling.Logic\obj\Debug\Bowling.Logic.pdb

@@ -1,0 +1,10 @@
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\StringCalculation.Test.dll
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\StringCalculation.Test.pdb
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\obj\Debug\StringCalculation.Test.csprojResolveAssemblyReference.cache
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\obj\Debug\StringCalculation.Test.dll
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\obj\Debug\StringCalculation.Test.pdb
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\StringCalculation.dll
+c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\StringCalculation.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\Telerik.JustMock.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\nunit.framework.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\nunit.framework.xml

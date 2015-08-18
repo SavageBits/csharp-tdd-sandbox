@@ -1,0 +1,9 @@
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Tests.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Tests.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\obj\Debug\ManualMock.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\obj\Debug\ManualMock.Tests.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\obj\Debug\ManualMock.Tests.pdb
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Logic.dll
+C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Logic.pdb
