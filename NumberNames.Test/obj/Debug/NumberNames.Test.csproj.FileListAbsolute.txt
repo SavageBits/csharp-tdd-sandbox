@@ -7,3 +7,5 @@ C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNam
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.csprojResolveAssemblyReference.cache
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.dll
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\NumberNames.Test\obj\Debug\NumberNames.Test.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\NumberNames.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

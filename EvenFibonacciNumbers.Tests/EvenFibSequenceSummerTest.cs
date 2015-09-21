@@ -26,6 +26,17 @@ namespace EvenFibonacciNumbers.Tests
             Assert.AreEqual(new List<int>{ 1, 2, 3, 5, 8, 13 }, new EvenFibSequenceSummer().GetFibonacciSequence(14));
         }
 
+        //would never name a test this way IRL :)
+        [Test]
+        public void ShouldGenerateAFibonacciSequenceForGivenMaximumRecursively()
+        {
+            List<int> sequence = new List<int>();
+
+            new EvenFibSequenceSummer().GetFibonacciSequenceRecursive(14, ref sequence);
+
+            Assert.AreEqual(new List<int> { 1, 2, 3, 5, 8, 13 }, sequence);
+        }
+
         //1, 2, 3, 5, 8, 13, 21, 34, 55, 89 - 100
         //2 + 8 + 34 = 44
         [Test]

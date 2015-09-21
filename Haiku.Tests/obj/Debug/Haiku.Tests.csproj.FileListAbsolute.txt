@@ -7,3 +7,5 @@ C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tes
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.csprojResolveAssemblyReference.cache
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.dll
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\obj\Debug\Haiku.Tests.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Haiku.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

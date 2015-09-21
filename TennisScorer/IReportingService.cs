@@ -8,7 +8,6 @@ namespace Tennis.Logic
 {
     public interface IReportingService
     {
-        Boolean SendScoreWasCalled();
         void SendScore();
     }
 }

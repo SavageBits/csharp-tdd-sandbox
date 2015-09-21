@@ -8,3 +8,5 @@ c:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCal
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\Telerik.JustMock.dll
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\nunit.framework.dll
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\nunit.framework.xml
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\StringCalculation.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

@@ -25,6 +25,21 @@ namespace EvenFibonacciNumbers.Logic
 
             return sequence;
         }
+
+        public List<int> GetFibonacciSequenceRecursive(int ceiling, ref List<int> sequence)
+        {
+            if (sequence.Count < 1)
+            {
+                sequence.Add(1);
+                sequence.Add(2);
+            }
+            else if (sequence[sequence.Count - 1] < ceiling)            
+            {
+                sequence.Add(sequence[sequence.Count - 1] + sequence[sequence.Count - 2]);
+            }
+
+            return GetFibonacciSequenceRecursive(ceiling, ref sequence);                       
+        }
         
         //pre-optimization
         //public int GetEvenFibSequenceSum(int ceiling)

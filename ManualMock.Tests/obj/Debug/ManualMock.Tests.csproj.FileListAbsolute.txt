@@ -7,3 +7,5 @@ C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMoc
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\obj\Debug\ManualMock.Tests.pdb
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Logic.dll
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\ManualMock.Logic.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\ManualMock.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

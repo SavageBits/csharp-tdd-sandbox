@@ -1,18 +1,40 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/CodeStyle/LiveTemplatesUseVar/PreferVar/@EntryValue">False</s:Boolean>
 	
+	
 	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/@KeyIndexDefined">True</s:Boolean>
 	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/GroupingIndex/@EntryValue">4</s:Int64>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/Name/@EntryValue">Haiku #2</s:String>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=05C28A4EF9FE4238A0082EA990067460/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/Filter/@EntryValue">Success, Failed</s:String>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/Name/@EntryValue">LargestPrimeFactor</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/ShowTime/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=1BC74E7CCF084945BAF98C45CCC61A0F/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnFactors" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnFactors(System.Int32[],15)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnFactors(System.Int32[],2)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnFactors(System.Int32[],4)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnPrimeFactors" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnPrimeFactors(System.Int32[],13195)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnPrimeFactors(System.Int32[],6)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(14,False)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(15,False)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(21,False)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(29,True)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(3,True)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(5,True)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnWhetherNumberIsPrime(6,False)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;e Id="PrimeFactorer.Tests.PrimeFactorerTest.ShouldReturnFactors(System.Int32[],6008514751L)" Project="392BFD58-3096-45E3-BF54-21216F8837A8" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
 	
 	
 	
 	
-	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/@KeyIndexDefined">True</s:Boolean>
-	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/GroupingIndex/@EntryValue">4</s:Int64>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/Name/@EntryValue">EvenFibonacciNumbers</s:String>
-	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B9C8EA5FE37040FDB2B604DC727A1C21/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest.ShouldGenerateAFibonacciSequenceForGivenMaximum" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;e Id="EvenFibonacciNumbers.Tests.EvenFibSequenceSummerTest.ShouldSumEvenNumbersForGivenFibonacciSequence" Project="54934A42-7867-46F3-87A7-12DF2C7082C1" Provider="nUnit" /&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	

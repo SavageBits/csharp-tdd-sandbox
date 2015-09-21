@@ -7,3 +7,5 @@ C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\Multiples
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Tests\obj\Debug\MultiplesOf3And5.Tests.csprojResolveAssemblyReference.cache
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Tests\obj\Debug\MultiplesOf3And5.Tests.dll
 C:\Users\mark.savage\documents\visual studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Tests\obj\Debug\MultiplesOf3And5.Tests.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\MultiplesOf3And5.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

@@ -34,27 +34,33 @@ namespace Tennis.Tests
         [TestCase(4, 6, "winner player 2")]
         [TestCase(6, 6, "deuce")]
         public void GetScore_WithValidPoints_ReturnsCorrectScore(int numberOfPlayer1Points, int numberOfPlayer2Points, string expected)
-        {            
+        {
+            IReportingService reportingService = new DummyReportingService();
+            Game gameWithReportingService = new Game(reportingService);
+
             for (int i = 0; i < numberOfPlayer1Points; i++)
             {
-                game.Player1.ScorePoint();    
+                gameWithReportingService.Player1.ScorePoint();    
             }
 
             for (int i = 0; i < numberOfPlayer2Points; i++)
             {
-                game.Player2.ScorePoint();
+                gameWithReportingService.Player2.ScorePoint();
             }
             
-            Assert.AreEqual(expected, game.GetScore());
+            Assert.AreEqual(expected, gameWithReportingService.GetScore());
         }
 
         [Test]
         public void GameIsComplete_WhenThereIsAWinner_ReturnsTrue()
         {            
-            ScorePoints(game, 4, 2);
-            var score = game.GetScore();
+            IReportingService reportingService = new DummyReportingService();
+            Game gameWithReportingService = new Game(reportingService);
 
-            Assert.AreEqual(true, game.GameIsComplete);
+            ScorePoints(gameWithReportingService, 4, 2);
+            var score = gameWithReportingService.GetScore();
+
+            Assert.AreEqual(true, gameWithReportingService.GameIsComplete);
         }
 
 
@@ -64,7 +70,7 @@ namespace Tennis.Tests
         [Test]
         public void SendScore_WhenGameIsComplete_ShouldBeCalled()
         {
-            IReportingService reportingService = new DummyReportingService();
+            DummyReportingService reportingService = new DummyReportingService();
             Game game = new Game(reportingService);
 
             ScorePoints(game, 4, 2);                                   

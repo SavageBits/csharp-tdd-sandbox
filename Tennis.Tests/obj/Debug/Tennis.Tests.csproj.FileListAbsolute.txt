@@ -7,3 +7,5 @@ C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Te
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Tests\obj\Debug\Tennis.Tests.csprojResolveAssemblyReference.cache
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Tests\obj\Debug\Tennis.Tests.dll
 C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Tests\obj\Debug\Tennis.Tests.pdb
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mark.savage\Documents\Visual Studio 2013\Projects\TDD_sandbox\Tennis.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
